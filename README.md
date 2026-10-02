@@ -1,3 +1,3 @@
-# Lab 01 - Control de Versiones con Git
+## Autor
 
-Proyecto del Laboratorio 01 del curso.
+Tu Nombre - Laboratorio 01
